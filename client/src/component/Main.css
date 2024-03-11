@@ -1,0 +1,13 @@
+.translate{
+    /* border: 5px solid black; */
+    border-radius: 50%;
+    transition-property: translate;
+    transition-duration: 3s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 1s;
+
+}
+/* .translate{
+    transform: translateY(100vw) , translateY(10vh);
+    color: rgb(52, 52, 242);
+} */
